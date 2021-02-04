@@ -1,0 +1,8 @@
+str_ = input("请输入一串以逗号为间隔的数字：")
+# ls = list(map(eval, str_.split(',')))
+# t = tuple(map(eval, str_.split(',')))
+# t = tuple(ls)
+ls = list(str_.split(','))
+t = tuple(ls)
+print(ls)
+print(t)

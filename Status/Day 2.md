@@ -66,7 +66,7 @@ print(tuple(input("Enter a series of numbers separated by a comma :").split(',')
 
 ### Hints:
 
-> **_Use **init** method to construct some parameters_**
+> **_Use  init method to construct some parameters_**
 
 ---
 
